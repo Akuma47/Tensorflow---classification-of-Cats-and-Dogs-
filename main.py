@@ -1,6 +1,6 @@
 from numpy.lib.type_check import imag
 import tensorflow as tf
-from keras.preprocessing import image #<-- Load and turn image in array
+from keras.preprocessing import image 
 from keras.preprocessing.image import ImageDataGenerator 
 import cv2
 import numpy as np
